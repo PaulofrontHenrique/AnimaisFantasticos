@@ -4,6 +4,6 @@
 
 ## URL do Site
 
-Você pode acessar o site do projeto em: https://paulofronthenrique.github.io/Animais-Fantasticos/
+Você pode acessar o site do projeto em: https://paulofronthenrique.github.io/AnimaisFantasticos/)
 
 Obs: O projeto está em andamento e segue com alterações regulares
